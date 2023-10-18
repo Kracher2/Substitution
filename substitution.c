@@ -30,7 +30,7 @@ int main(int argc, string argv[])
                 x++;
                 if (x > 26)
                 {
-                    printf("Falsch digga\n");
+                    printf("Not 26 unique characters\n");
                     return 1;
                 }
             }
